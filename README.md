@@ -170,7 +170,7 @@ MIT — free to use, modify and distribute.
 
 <div align="center">
 
-made by **YOUR_USERNAME**  
+made by **xSejker**  
 if this helped you, drop a ⭐
 
 </div>
