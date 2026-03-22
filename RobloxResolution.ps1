@@ -1,7 +1,7 @@
 # ============================================================
 #  RobloxResolution.ps1  v3.0
 #  Run via START.bat
-#  github.com/YOUR_USERNAME/roblox-resolution-switcher
+#  github.com/xSejker/roblox-resolution-switcher
 # ============================================================
 
 Add-Type -TypeDefinition @"
